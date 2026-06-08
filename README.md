@@ -36,5 +36,5 @@ for SOC-style monitoring and visualization.
   "dst_ip": "10.0.0.1",
   "ports_scanned": 10,
   "severity": "HIGH"
-}<img width="2292" height="916" alt="PythonIDS-Splunk" src="https://github.com/user-attachments/assets/74b0aca6-6396-41fb-9b42-86eafd2c6d4c" />
+}
 
